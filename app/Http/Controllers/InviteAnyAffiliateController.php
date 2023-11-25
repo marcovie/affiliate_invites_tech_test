@@ -4,7 +4,6 @@ namespace App\Http\Controllers;
 
 use App\Models\Affiliate;
 use App\Services\AffiliateService;
-use Faker\Core\File;
 use Illuminate\View\View;
 
 class InviteAnyAffiliateController extends Controller
